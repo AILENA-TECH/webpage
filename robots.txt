@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-https://www.firmai.org/sitemap_index.xml
+https://www.ailena.in/sitemap_index.xml
